@@ -1,0 +1,173 @@
+C:\Users\rawan\source\repos\Home\Home\bin\Debug\Home.exe.config
+C:\Users\rawan\source\repos\Home\Home\bin\Debug\Home.exe
+C:\Users\rawan\source\repos\Home\Home\bin\Debug\Home.pdb
+C:\Users\rawan\source\repos\Home\Home\obj\Debug\Home.csproj.AssemblyReference.cache
+C:\Users\rawan\source\repos\Home\Home\obj\Debug\Home.Form1.resources
+C:\Users\rawan\source\repos\Home\Home\obj\Debug\Home.Properties.Resources.resources
+C:\Users\rawan\source\repos\Home\Home\obj\Debug\Home.csproj.GenerateResource.cache
+C:\Users\rawan\source\repos\Home\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+C:\Users\rawan\source\repos\Home\Home\obj\Debug\Home.exe
+C:\Users\rawan\source\repos\Home\Home\obj\Debug\Home.pdb
+C:\Users\rawan\source\repos\Home\Home\obj\Debug\Home.P7.resources
+C:\Users\CompuMan\Desktop\Home\Home\bin\Debug\Home.exe.config
+C:\Users\CompuMan\Desktop\Home\Home\bin\Debug\Home.exe
+C:\Users\CompuMan\Desktop\Home\Home\bin\Debug\Home.pdb
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.csproj.AssemblyReference.cache
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.Properties.Resources.resources
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.csproj.GenerateResource.cache
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.exe
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.pdb
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.home.resources
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\login.login.resources
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.addleav.resources
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.AddEmployee.resources
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.AddNewAccount.resources
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.ChangeYourPassword.resources
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.attendnce.resources
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.manageemp.resources
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.manageRewards.resources
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.Msalary.resources
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.deduction.resources
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.addrewa.resources
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.addsalary.resources
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.addvaca.resources
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.ManageLeave.resources
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.managevaca.resources
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.showemp.resources
+C:\Users\CompuMan\Desktop\Home\Home\obj\Debug\Home.AddDeduct.resources
+C:\Users\Student\Desktop\Home\Home\bin\Debug\Home.exe.config
+C:\Users\Student\Desktop\Home\Home\bin\Debug\Home.exe
+C:\Users\Student\Desktop\Home\Home\bin\Debug\Home.pdb
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.addleav.resources
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.addrewa.resources
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.AddEmployee.resources
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.AddNewAccount.resources
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.addvaca.resources
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.addsalary.resources
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.AddDeduct.resources
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.attendnce.resources
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.manageemp.resources
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.ManageLeave.resources
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.manageRewards.resources
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.managevaca.resources
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.Msalary.resources
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.deduction.resources
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.Properties.Resources.resources
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.exe
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.pdb
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.home.resources
+C:\Users\Student\Desktop\Home\Home\obj\Debug\login.Form1.resources
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.changepass.resources
+C:\Users\Student\Desktop\Home\Home\obj\Debug\Home.Form1.resources
+E:\Home\Home\bin\Debug\Home.exe.config
+E:\Home\Home\bin\Debug\Home.exe
+E:\Home\Home\bin\Debug\Home.pdb
+E:\Home\Home\obj\Debug\Home.csproj.AssemblyReference.cache
+E:\Home\Home\obj\Debug\Home.addleav.resources
+E:\Home\Home\obj\Debug\Home.addrewa.resources
+E:\Home\Home\obj\Debug\Home.AddEmployee.resources
+E:\Home\Home\obj\Debug\Home.AddNewAccount.resources
+E:\Home\Home\obj\Debug\Home.addvaca.resources
+E:\Home\Home\obj\Debug\Home.changepass.resources
+E:\Home\Home\obj\Debug\Home.addsalary.resources
+E:\Home\Home\obj\Debug\Home.AddDeduct.resources
+E:\Home\Home\obj\Debug\Home.Form1.resources
+E:\Home\Home\obj\Debug\Home.home.resources
+E:\Home\Home\obj\Debug\login.Form1.resources
+E:\Home\Home\obj\Debug\Home.attendnce.resources
+E:\Home\Home\obj\Debug\Home.manageemp.resources
+E:\Home\Home\obj\Debug\Home.ManageLeave.resources
+E:\Home\Home\obj\Debug\Home.manageRewards.resources
+E:\Home\Home\obj\Debug\Home.managevaca.resources
+E:\Home\Home\obj\Debug\Home.Msalary.resources
+E:\Home\Home\obj\Debug\Home.deduction.resources
+E:\Home\Home\obj\Debug\Home.Properties.Resources.resources
+E:\Home\Home\obj\Debug\Home.csproj.GenerateResource.cache
+E:\Home\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+E:\Home\Home\obj\Debug\Home.exe
+E:\Home\Home\obj\Debug\Home.pdb
+I:\Home\Home\bin\Debug\Home.exe.config
+I:\Home\Home\bin\Debug\Home.exe
+I:\Home\Home\bin\Debug\Home.pdb
+I:\Home\Home\obj\Debug\Home.csprojAssemblyReference.cache
+I:\Home\Home\obj\Debug\Home.addleav.resources
+I:\Home\Home\obj\Debug\Home.addrewa.resources
+I:\Home\Home\obj\Debug\Home.AddEmployee.resources
+I:\Home\Home\obj\Debug\Home.AddNewAccount.resources
+I:\Home\Home\obj\Debug\Home.addvaca.resources
+I:\Home\Home\obj\Debug\Home.changepass.resources
+I:\Home\Home\obj\Debug\Home.addsalary.resources
+I:\Home\Home\obj\Debug\Home.AddDeduct.resources
+I:\Home\Home\obj\Debug\Home.Form1.resources
+I:\Home\Home\obj\Debug\Home.home.resources
+I:\Home\Home\obj\Debug\login.Form1.resources
+I:\Home\Home\obj\Debug\Home.attendnce.resources
+I:\Home\Home\obj\Debug\Home.manageemp.resources
+I:\Home\Home\obj\Debug\Home.ManageLeave.resources
+I:\Home\Home\obj\Debug\Home.manageRewards.resources
+I:\Home\Home\obj\Debug\Home.managevaca.resources
+I:\Home\Home\obj\Debug\Home.Msalary.resources
+I:\Home\Home\obj\Debug\Home.deduction.resources
+I:\Home\Home\obj\Debug\Home.Properties.Resources.resources
+I:\Home\Home\obj\Debug\Home.csproj.GenerateResource.cache
+I:\Home\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+I:\Home\Home\obj\Debug\Home.exe
+I:\Home\Home\obj\Debug\Home.pdb
+D:\3erd Year\Project\اخر حاجة\Home()\Home\bin\Debug\Home.exe.config
+D:\3erd Year\Project\اخر حاجة\Home()\Home\bin\Debug\Home.exe
+D:\3erd Year\Project\اخر حاجة\Home()\Home\bin\Debug\Home.pdb
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.csproj.AssemblyReference.cache
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.addleav.resources
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.addrewa.resources
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.AddEmployee.resources
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.AddNewAccount.resources
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.addvaca.resources
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.changepass.resources
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.addsalary.resources
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.AddDeduct.resources
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.Form1.resources
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.home.resources
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\login.Form1.resources
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.attendnce.resources
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.manageemp.resources
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.ManageLeave.resources
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.manageRewards.resources
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.managevaca.resources
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.Msalary.resources
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.deduction.resources
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.Properties.Resources.resources
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.csproj.GenerateResource.cache
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.exe
+D:\3erd Year\Project\اخر حاجة\Home()\Home\obj\Debug\Home.pdb
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.csproj.AssemblyReference.cache
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.addleav.resources
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.addrewa.resources
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.AddEmployee.resources
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.AddNewAccount.resources
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.addvaca.resources
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.changepass.resources
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.addsalary.resources
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.AddDeduct.resources
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.Form1.resources
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.home.resources
+D:\اخر حاجة\Home()\Home\obj\Debug\login.Form1.resources
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.attendnce.resources
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.manageemp.resources
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.ManageLeave.resources
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.manageRewards.resources
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.managevaca.resources
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.Msalary.resources
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.deduction.resources
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.Properties.Resources.resources
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.csproj.GenerateResource.cache
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.exe
+D:\اخر حاجة\Home()\Home\obj\Debug\Home.pdb
+D:\اخر حاجة\Home()\Home\bin\Debug\Home.exe.config
+D:\اخر حاجة\Home()\Home\bin\Debug\Home.exe
+D:\اخر حاجة\Home()\Home\bin\Debug\Home.pdb
